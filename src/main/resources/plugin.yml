@@ -1,0 +1,4 @@
+name: FixChestUI
+version: '${version}'
+main: com.boy0000.fixchestui.FixChestUIPlugin
+api-version: 1.19
